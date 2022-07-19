@@ -1,2 +1,3 @@
 # Sudoku_Solver
-Sudoku Solver in python using recursive backtracking.
+This project implements a rudimentary Sudoku Solver using recursive backtracking in python. 
+The project is build upon the work done by Kylie Ying (https://github.com/kying18)
